@@ -1,0 +1,19 @@
+{
+  "name": "webdev-with-node-and-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meadowslark.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon meadowslark.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
